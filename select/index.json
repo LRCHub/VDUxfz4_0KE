@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "メメント",
+  "base_artist": "tayori",
+  "createdAt": "2025-12-19T11:08:01.839001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メメント",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/01_メメント_須田景凪.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メメント・モリ",
+      "artist": "Reona",
+      "has_synced": true,
+      "path": "select/02_メメント・モリ_Reona.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メメント・モリ",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/03_メメント・モリ_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メメント - mement",
+      "artist": "VACHSS",
+      "has_synced": true,
+      "path": "select/04_メメント_-_mement_VACHSS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メメント?モリ",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/05_メメント_モリ_Aqua_Timez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メメント",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_メメント_tayori.txt"
+    }
+  ]
+}
